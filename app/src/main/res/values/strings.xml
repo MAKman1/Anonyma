@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Anonyma</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="default_notification_channel_id">AnonymaNotifChannel</string>
+
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+</resources>

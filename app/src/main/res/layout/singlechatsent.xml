@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp">
+
+    <LinearLayout
+        android:id="@+id/message_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:paddingLeft="100dp">
+
+        <TextView
+            android:id="@+id/chat_message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/chatsent"
+            android:padding="15dp"
+            android:text="Lorem Ipsum DipsumLorem Ipsum Dipsum Lorem Ipsum Dipsum Lorem Ipsum Dipsum Lorem Ipsum Dipsum Lorem Ipsum Dipsum"
+            android:textColor="#ffffff"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/chat_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="-80dp"
+        android:layout_toLeftOf="@id/message_container"
+        android:text="12:30 PM"
+        android:textColor="#9b9b9b"
+        android:textSize="12sp"
+        android:textStyle="italic"
+        android:visibility="invisible" />
+</RelativeLayout>

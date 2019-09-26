@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1041236956793",
+    "firebase_url": "https://anonyma-da2e2.firebaseio.com",
+    "project_id": "anonyma-da2e2",
+    "storage_bucket": "anonyma-da2e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041236956793:android:2add47f411be3670",
+        "android_client_info": {
+          "package_name": "allinontech.anonyma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041236956793-gieidibi8s3ri3jr6jol9jn1ip5cbh3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "allinontech.anonyma",
+            "certificate_hash": "cf538dd83565a4fb93ef8aba48d2fb5e8eb8d202"
+          }
+        },
+        {
+          "client_id": "1041236956793-2c2dhr2qaeg2cdbuq1ob9qjf60e8tvc4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "allinontech.anonyma",
+            "certificate_hash": "2d1018d3d2ce39acc1586453dea9e37e2b4c6b19"
+          }
+        },
+        {
+          "client_id": "1041236956793-8gto44pa9ujjpj1csoeosqeb1qc4813a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB_LnQrFPdgnrQtppZp5p31P1y_SefOyM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041236956793-8gto44pa9ujjpj1csoeosqeb1qc4813a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
